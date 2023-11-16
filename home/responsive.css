@@ -1,0 +1,105 @@
+@media all and (max-width:400px) {
+    #navbarTop1>p{
+        /* height: fit-content; */
+        width: 100%;
+        height: fit-content;
+        font-size: 11px;
+        text-align: center;
+    }
+    .navbar2>div:first-child{
+        margin: 0px 0px 0px 40px;
+    }
+    .cata,.search{
+        display: none;
+    }
+    .hamburger{
+        display: block;
+        position: absolute;
+        right: 0;
+    }
+    .today-killer-offers>:last-child{
+        display: none;
+    }
+    .fast-four-product{
+         display: none;
+        
+    }
+   .shopby{
+    display: none;
+   }
+   .new-launches{
+    display: none;
+   }
+   .second-four-product{
+    display: none;
+   }
+
+   .shipping-section{
+    display: none;
+   }
+   .best0fBoat-four-product{
+    height: 460px;
+    width: 95%;
+    margin: auto;
+    margin-top: 5px;
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    gap: 21.4px;
+   }
+   .join-the-tribe{
+    display: none;
+   }
+   #join-tribe-video>.overflow2{
+    display: none;
+   }
+   .blogs{
+    display: none;
+
+   }
+   .view-all4{
+    display: none;
+   }
+   .blogs-cart{
+    margin-top: 1550px;
+    /* display: none; */
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    gap: 20px;
+   }
+
+   .press{
+    display: none;
+   }
+   .boat-about{
+    /* display: none; */
+   }
+   .boat-about2,.boat-about{
+    display: none;
+   }
+
+   .media{
+    /* display: none; */
+   }
+
+   .container12{
+    display: none;
+   }
+   .tickboat{
+    position: absolute;
+    top: 438.5dvb;
+    font-size: 10px;
+    font-weight: bolder;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    padding: 4px 8px 5px 3px;
+    background-color: black;
+    border-radius: 5px;
+}
+
+.m{
+    display: block;
+    margin-top: 6000px;
+}
+
+
+}
