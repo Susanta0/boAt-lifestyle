@@ -1,4 +1,4 @@
-![image](https://github.com/Susanta0/boAt-lifestyle/assets/130533362/d58ac8ac-1d6c-4e08-9d5b-63fad44ffb11)# boAt-lifestyle
+
 
 
 # this is the boAt-lifestyle home page clone,which i build html, css ,and Javascript,
